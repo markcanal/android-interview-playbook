@@ -1,7 +1,8 @@
-# Android Engineering Playbook 
+# Android Engineering Playbook
+
 ![Android](https://img.shields.io/badge/Android-16%2B-brightgreen) ![Kotlin](https://img.shields.io/badge/Kotlin-2.x-purple) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-Latest-blue) ![License](https://img.shields.io/github/license/markcanal/android-interview-playbook) ![Last Commit](https://img.shields.io/github/last-commit/markcanal/android-interview-playbook)
 
-A personal knowledge base documenting Android engineering concepts, architecture patterns, development practices, and lessons learned throughout my career as an Android Software Engineer.
+**_Android Engineering Playbook_** is my personal knowledge base for modern Android development. It documents engineering concepts, architectural patterns, best practices, production-ready examples, and interview preparation. The goal is to deepen my understanding while creating a practical reference that I—and other Android engineers—can continuously learn from.
 
 This repository is designed to reinforce my understanding of Android development while serving as a reference for best practices, architectural decisions, and modern Android technologies.
 
@@ -11,7 +12,7 @@ The content is based on practical experience, official Android documentation, an
 
 ## Topics
 
-### Android Fundamentals
+### [Android Fundamentals](playbook/fundamentals/README.md) 🚧
 
 - Activity & Fragment Lifecycle
 - Intents
@@ -20,7 +21,7 @@ The content is based on practical experience, official Android documentation, an
 - Permissions
 - Storage
 
-### Kotlin
+### Kotlin ⏳
 
 - Kotlin Basics
 - Null Safety
@@ -30,7 +31,7 @@ The content is based on practical experience, official Android documentation, an
 - Sealed Classes
 - Generics
 
-### Coroutines & Flow
+### Coroutines & Flow ⏳
 
 - Coroutines
 - Structured Concurrency
@@ -38,7 +39,7 @@ The content is based on practical experience, official Android documentation, an
 - SharedFlow
 - Flow Operators
 
-### Jetpack Compose
+### Jetpack Compose ⏳
 
 - State Management
 - Recomposition
@@ -46,7 +47,7 @@ The content is based on practical experience, official Android documentation, an
 - Side Effects
 - Performance
 
-### Android Architecture
+### Android Architecture ⏳
 
 - MVVM
 - Clean Architecture
@@ -54,7 +55,7 @@ The content is based on practical experience, official Android documentation, an
 - SOLID Principles
 - Dependency Injection
 
-### Networking
+### Networking ⏳
 
 - Retrofit
 - REST APIs
@@ -63,12 +64,12 @@ The content is based on practical experience, official Android documentation, an
 - Deep Links
 - Android App Links
 
-### Dependency Injection
+### Dependency Injection ⏳
 
 - Hilt
 - Koin
 
-### Development Practices
+### Development Practices ⏳
 
 - Git
 - GitHub Flow
@@ -76,20 +77,22 @@ The content is based on practical experience, official Android documentation, an
 - CI/CD
 - GitHub Actions
 
-### Testing
+### Testing ⏳
 
 - Unit Testing
 - UI Testing
 - Mocking
 
-### Performance
+### Performance ⏳
 
 - Memory Management
 - Performance Optimization
 - ANR
 - Profiling
 
-### Interview Preparation
+### Engineering knowledge ⏳
+
+### Interview Preparation ⏳
 
 - Android Interview Questions
 - System Design
