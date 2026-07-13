@@ -1,4 +1,5 @@
-# Android Engineering Playbook
+# Android Engineering Playbook 
+![Android](https://img.shields.io/badge/Android-16%2B-brightgreen) ![Kotlin](https://img.shields.io/badge/Kotlin-2.x-purple) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-Latest-blue) ![License](https://img.shields.io/github/license/markcanal/android-interview-playbook) ![Last Commit](https://img.shields.io/github/last-commit/markcanal/android-interview-playbook)
 
 A personal knowledge base documenting Android engineering concepts, architecture patterns, development practices, and lessons learned throughout my career as an Android Software Engineer.
 
